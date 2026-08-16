@@ -1,0 +1,19 @@
+ID,Customer_Name,Order_ID,Order_Date,Product,Category,Quantity,Price,Payment_Method,Status
+101,,ORD-35783,7/5/2025,Smartphone,,2,abd,PayPal,Processing
+106,,ORD-25885,2/2/2025,Blender,,,978.63,Bank Transfer,Processing
+110,,ORD-61020,9/26/2025,Basketball,,5,four hundred,Cash on Delivery,Cancelled
+114,,ORD-77417,Jan 5 2023,Smartphone,,2,413.13,Cash on Delivery,Shipped
+116,,ORD-63660,10/30/2025,Microwave,,4,,Cash on Delivery,Processing
+117,,ORD-72751,2/12/2025,Blender,,-2,10000,Cash on Delivery,Processing
+120,,ORD-14659,6/13/2025,Yoga Mat,,5,300$,Credit Card,Cancelled
+124,,ORD-46136,5/31/2025,Comics,,5,,PayPal,Cancelled
+130,,ORD-34007,8/15/2025,Tennis Racket,,2,,Bank Transfer,Processing
+134,,ORD-16585,10/4/2025,T-shirt,,-5,591.53,PayPal,Shipped
+137,,ORD-91254,2/23/2025,Vacuum,,3,-100,Cash on Delivery,Delivered
+156,,ORD-34679,11/28/2024,Jeans,,2,,Bank Transfer,Shipped
+164,,ORD-23010,2/9/2025,Tennis Racket,,,587.64,Credit Card,Returned
+167,,ORD-30329,8/7/2025,Basketball,,,593.93,Cash on Delivery,Processing
+183,,ORD-20916,3/10/2025,Shoes,,5,,Cash on Delivery,Returned
+192,,ORD-35144,abc,Jacket,,4a,203.63,Credit Card,Returned
+193,,ORD-42475,6/6/2025,Basketball,,,522.02,PayPal,Shipped
+196,,ORD-78384,12/23/2024,Vacuum,,,abd,PayPal,Delivered
