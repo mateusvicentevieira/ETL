@@ -17,7 +17,7 @@
 
 ---
 
-# 📌 Sobre o Projeto
+#  Sobre o Projeto
 
 Este projeto implementa um **pipeline ETL (Extract, Transform, Load)** utilizando Python.
 
@@ -32,10 +32,10 @@ O objetivo é demonstrar, na prática, como dados brutos podem ser preparados pa
 
 ---
 
-# 🔄 Como funciona?
+#  Como funciona?
 
 ```text
-        📁 DATASET CSV
+         DATASET CSV
               │
               ▼
        ┌──────────────┐
@@ -68,9 +68,9 @@ O objetivo é demonstrar, na prática, como dados brutos podem ser preparados pa
 
 ---
 
-# 🧠 Entendendo o Pipeline
+#  Entendendo o Pipeline
 
-## 📥 Extract — Extração
+##  Extract.py
 
 A primeira etapa é responsável por ler os dados do arquivo de origem.
 
@@ -86,7 +86,7 @@ Cada linha do arquivo é preparada para seguir para a próxima etapa do pipeline
 
 ---
 
-## 🔎 Validate — Validação
+##  Validate.py
 
 Os dados passam por verificações para identificar informações incorretas ou incompatíveis.
 
@@ -124,7 +124,7 @@ Após essa etapa, os registros são separados:
 
 ---
 
-## 🔄 Transform — Transformação
+##  Transform.py
 
 Os dados válidos são convertidos e padronizados para garantir maior consistência.
 
@@ -140,7 +140,7 @@ Essa etapa prepara os dados para serem utilizados posteriormente em outros siste
 
 ---
 
-## 📦 Load — Carregamento
+##  Load.py
 
 Ao final do pipeline, os dados são exportados em diferentes formatos.
 
@@ -160,7 +160,7 @@ Ao final do pipeline, os dados são exportados em diferentes formatos.
 
 ---
 
-# 🗂️ Estrutura do Projeto
+# Estrutura do Projeto
 
 ```text
 ETL/
@@ -188,7 +188,7 @@ ETL/
 
 ---
 
-# ⚙️ Tecnologias Utilizadas
+#  Tecnologias Utilizadas
 
 <div align="center">
 
@@ -212,7 +212,7 @@ datetime
 
 ---
 
-# 🚀 Como Executar
+#  Como Executar no seu PC
 
 ### 1. Clone o repositório
 
@@ -240,7 +240,7 @@ python main.py
 
 ---
 
-# 🎯 Conceitos Praticados
+#  Conceitos Praticados
 
 Durante o desenvolvimento deste projeto foram aplicados conceitos importantes de **Engenharia de Dados e Desenvolvimento de Software**:
 
@@ -257,20 +257,15 @@ Durante o desenvolvimento deste projeto foram aplicados conceitos importantes de
 
 ---
 
-# 🔮 Próximas Melhorias
+#  Próximas Melhorias
 
-- [ ] Melhorar tratamento de erros
-- [ ] Adicionar logging
-- [ ] Criar testes automatizados
-- [ ] Adicionar type hints
 - [ ] Integração com PostgreSQL
-- [ ] Utilizar variáveis de ambiente
-- [ ] Containerização com Docker
-- [ ] Integração com AWS
+- [ ] Adicionar um mini relatório automatizado que retorna dados expecificos como: campo com maior número de dados invalidos, taxa de aproveitamento de dados...
+
 
 ---
 
-# 👨‍💻 Autor
+#  Autor
 
 <div align="center">
 
