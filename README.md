@@ -25,10 +25,10 @@ De forma simples, o sistema recebe dados de um arquivo **CSV**, verifica se as i
 
 O objetivo é demonstrar, na prática, como dados brutos podem ser preparados para utilização em:
 
-- 📊 Dashboards
-- 🗄️ Bancos de Dados
-- 📈 Relatórios
-- ☁️ Plataformas Cloud
+-  Dashboards
+-  Bancos de Dados
+-  Relatórios
+-  Plataformas Cloud
 
 ---
 
@@ -147,15 +147,15 @@ Ao final do pipeline, os dados são exportados em diferentes formatos.
 ### Dados válidos e tratados
 
 ```text
-📄 dados_tratados.csv
-📦 dados_tratados.json
+ dados_tratados.csv
+ dados_tratados.json
 ```
 
 ### Dados inválidos
 
 ```text
-❌ dados_improprios.csv
-❌ dados_improprios.json
+ dados_improprios.csv
+ dados_improprios.json
 ```
 
 ---
